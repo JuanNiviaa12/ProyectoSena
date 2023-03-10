@@ -1,0 +1,31 @@
+/* estilo pagina */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Estilo Container */
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .div-form{
+    height:90vh;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1eeee;
+}
+
+
+
+.container .div-texto{
+    width: 40%;
+    background: linear-gradient(170deg,#5eb319,#3a651707);
+}
